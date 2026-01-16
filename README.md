@@ -12,17 +12,17 @@ I am an undergraduate researcher bridging the gap between wet-lab biology and co
 * **PCOS Peptide Therapeutics (Current Project)**
     * **Strategy:** Engineered a **C/EBP beta mutant peptide** to act as a high-affinity "molecular trap" for **DDIT3 (CHOP)**.
     * **Mechanism:** The mutant sequesters CHOP in ovarian granulosa cells, preventing the UPR pathway from initiating apoptosis.
-    * **Results:** Achieved a binding affinity of **-114 kcal/mol** (HawkDock) with CHOP, significantly outperforming the Wild Type interaction (-45.23 kcal/mol).
+    * **Results:** Achieved a binding affinity of **-110.6 kcal/mol** (HawkDock) with CHOP, significantly outperforming the Wild Type interaction (-45.23 kcal/mol).
     * **Validation:** Confirmed complex stability via **20ns MD simulations** and presented findings at **NCURB (IISER Tirupati)**.
 
-
+   Comprehensive Project Documentation available at: https://github.com/s-sarthakprakash/PCOS_Therapeutic_Peptide
 ---
 
 ### 🛠️ Technical Stack & Skills
 
-* **Languages:** Python 🐍 (Active learner: Rosalind & Kaggle; 90/100 in CBSE 12th).
+* **Languages:** Python 🐍 (biopython, matplotlib)
 * **Structural Biology:**
-    * **Modeling & Simulation:** PyMOL, Chimera, Gromacs (MD Analysis).
+    * **Modeling & Simulation:** PyMOL, MDAnalysis.
     * **Docking:** AutoDock, HawkDock.
     * **Optimization:** In Silico Saturation Mutagenesis (BioSig), DynaMut (Stability Analysis).
 * **Bioinformatics Tools:** BLAST, ClustalW, Prodigy (HADDOCK).
@@ -33,9 +33,8 @@ I am an undergraduate researcher bridging the gap between wet-lab biology and co
 * **Foundation:** Studied Computer Science (Python) in High School (11th & 12th).
     * Achieved **90/100** in CBSE Class 12th Board Exams 🎓.
 * **Current Practice:**
-    * **Rosalind.info:** 13+ Problems Solved (Focus: String algorithms & Genomics).
+    * **Rosalind.info:** 30+ Problems Solved (Focus: String algorithms & Genomics).
     * **Kaggle:** Certified in Python Basics.
-* **Goal:** Building statistical models for population genetics and metabolic disease susceptibility.
 
 ---
 
